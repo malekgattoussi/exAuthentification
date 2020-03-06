@@ -1,2 +1,2 @@
-# exAuthentification
+# exAuthent
 ex import in github
